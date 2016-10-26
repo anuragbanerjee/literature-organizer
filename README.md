@@ -1,5 +1,11 @@
 # Literature Organizer
 
+### Prerequisites
+
+- pdfminer
+- pyPDF
+- lxml
+
 ### Usage
 `python literature_organizer.py FOLDER_NAME`
 
